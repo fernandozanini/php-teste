@@ -1,3 +1,3 @@
 <?php
-echo "ola mundo";
+echo "IP do servidor: ".$_SERVER['SERVER_ADDR'];
 ?>
