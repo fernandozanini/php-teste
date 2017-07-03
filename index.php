@@ -1,3 +1,3 @@
-<?
-echo "IP do servidor: " $_SERVER['SERVER_ADDR']
+<?php
+echo "ola mundo";
 ?>
